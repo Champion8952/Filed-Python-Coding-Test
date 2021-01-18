@@ -3,7 +3,7 @@
 # Running this code instruction
 1. Python processpayment_api.py (This is the main API)
 
-2. Python sample_api.py (This is a Simple Test python file)
+2. Python Sample_api.py (This is a Simple Test python file)
    
    OR
    
